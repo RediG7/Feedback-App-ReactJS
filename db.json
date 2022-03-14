@@ -1,0 +1,44 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 10,
+      "text": "This is feedback item 1 coming from the backend"
+    },
+    {
+      "id": 2,
+      "rating": 8,
+      "text": "This is feedback item 2 coming from the backend"
+    },
+    {
+      "id": 3,
+      "rating": 8,
+      "text": "This is feedback item 3 coming from the backend"
+    },
+    {
+      "rating": "9",
+      "text": "New feedback item",
+      "id": 4
+    },
+    {
+      "text": "why is rating",
+      "rating": 9,
+      "id": 6
+    },
+    {
+      "text": "seven is the number",
+      "rating": 7,
+      "id": 7
+    },
+    {
+      "text": "this is an old testing",
+      "rating": 7,
+      "id": 8
+    },
+    {
+      "text": "feedback and feeback is a big difference",
+      "rating": 7,
+      "id": 9
+    }
+  ]
+}
